@@ -1,5 +1,3 @@
-package net.proselyte.datastructures.linkedlist;
-
 public class LinkedListDemo {
     public static void main(String[] args) {
 

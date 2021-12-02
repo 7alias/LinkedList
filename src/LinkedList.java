@@ -1,5 +1,3 @@
-package net.proselyte.datastructures.linkedlist;
-
 public class LinkedList<T> {
     private Node<T> head;
 
